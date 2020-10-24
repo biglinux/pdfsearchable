@@ -1,0 +1,10 @@
+Package: PDF2SearchablePDF
+Version: 1.0.0-1big1
+Depends: tesseract-ocr, pdftoppm
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:
+Description: Simple graphical interface to https://github.com/biglinux/PDF2SearchablePDF
+
